@@ -1,3 +1,4 @@
-# Strapi application
+# Backend Manager VooDesign
 
-A quick description of your strapi application
+voodesign backend project using strapi cms
+
